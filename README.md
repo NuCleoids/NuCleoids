@@ -10,7 +10,7 @@ I am a developer who strives for big goals. My ambitions are breaking the univer
 ***A little bit about what I do:***
 
 - I study and improve in C++, QT, Blockchain, and much more.
-- Now I am open to new knowledge.
+- I am open to new knowledge.
 - I am gaining experience to realize my ambitions.
 - Now my partners and I are preparing a large-scale idea that will become a part of people's lives.
 - I am striving for new achievements, and I am open to new proposals.
