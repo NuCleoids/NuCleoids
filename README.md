@@ -20,5 +20,5 @@ Email: nucleoids.developer@gmail.com
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuCleoids&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuCleoids&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
