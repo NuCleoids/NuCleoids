@@ -15,6 +15,10 @@ I am a developer who strives for big goals. My ambitions are breaking the univer
 - Now my partners and I are preparing a large-scale idea that will become a part of people's lives.
 - I am striving for new achievements, and I am open to new proposals.
 
+****You can contact me:****
+Email: nucleoids.developer@gmail.com
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuCleoids&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
